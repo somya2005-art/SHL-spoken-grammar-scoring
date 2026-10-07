@@ -1,9 +1,13 @@
 .venv/
+venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-data/Dataset_Final/train/
-data/Dataset_Final/test/
+catboost_info/
+data/
+cache/
+*.npy
+*.wav
 *.tmp
 *.chk.csv
 *.partial
